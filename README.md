@@ -13,9 +13,9 @@ Amo creare esperienze digitali intuitive e visivamente accattivanti, combinando 
 
 ## Progetti in evidenza 🔍
 
-Dai un'occhiata al mio [portfolio](https://github.com/il_tuo_username) per vedere alcuni dei miei lavori migliori! 👀  
+Dai un'occhiata al mio [portfolio](https://pescearianna.github.io/Progetto-HTML-e-CSS-di-Arianna-Pesce/portfolio.html) per vedere alcuni dei miei lavori migliori! 👀  
 
 ---
 
-📫 **Contattami:** [email@example.com](mailto:email@example.com)  
-🌍 **Portfolio personale:** [il_tuo_sito_web.com](https://il_tuo_sito_web.com)
+📫 **Contattami:** [email@example.com](https://pescearianna.github.io/Progetto-HTML-e-CSS-di-Arianna-Pesce/contact.html)  
+🌍 **Portfolio personale:** [il_tuo_sito_web.com](https://pescearianna.github.io/Progetto-HTML-e-CSS-di-Arianna-Pesce/index.html)
