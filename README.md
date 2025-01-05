@@ -17,5 +17,5 @@ Dai un'occhiata al mio [portfolio](https://pescearianna.github.io/Progetto-HTML-
 
 ---
 
-📫 **Contattami:** [email@example.com](https://pescearianna.github.io/Progetto-HTML-e-CSS-di-Arianna-Pesce/contact.html)  
-🌍 **Portfolio personale:** [il_tuo_sito_web.com](https://pescearianna.github.io/Progetto-HTML-e-CSS-di-Arianna-Pesce/index.html)
+📫 **Contattami:** [Send me a message](https://pescearianna.github.io/Progetto-HTML-e-CSS-di-Arianna-Pesce/contact.html)  
+🌍 **Portfolio personale:** [Personal website](https://pescearianna.github.io/Progetto-HTML-e-CSS-di-Arianna-Pesce/index.html)
